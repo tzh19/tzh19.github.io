@@ -31,3 +31,7 @@ Make a small edit, commit and push it, then check the deployment and live page. 
 - index.html: content, links, and page structure.
 - styles.css: colors, spacing, typography, and mobile layouts.
 - README.md: learning and deployment notes; not displayed on the portfolio page.
+
+## Downloadable CV
+
+The sidebar Download CV button links to `output/pdf/Thinzar-Hlaing-CV.pdf`. The editable print layout is `output/pdf/Thinzar-Hlaing-CV.html`. After changing CV content, open that file in a browser and print to PDF using A4, no margins, and no browser headers or footers. Replace the PDF at the same path so the download link stays valid.
